@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah @sd00677
-- 👀 I’m still figuring out where my main interest lie, currently working with AWS, React, Salesforce and others.. 
+- 👀 I’m still figuring out where my main interests lie, currently working with AWS, React, Salesforce and others.. 
 - 🌱 I’m currently learning AWS Lambda to aid with serverless architecture
 - 📫 How to reach me ... coming soon.
 
